@@ -122,7 +122,7 @@ $(document).ready(function() {
             }, {
                 'file': 'https://raw.githubusercontent.com/azureplayer/azureplayer.github.io/master/res/big_sean_idfwu.aac',
                 'thumb': 'https://pbs.twimg.com/media/C4E0zJJUYAAiA3r.jpg',
-                'trackName': 'I Dont Fuck With You',
+                'trackName': 'IDFWU',
                 'trackArtist': 'Big Sean ft. E-40',
                 'trackAlbum': 'Dark Sky Paradise',
                 'time': '5:47'
