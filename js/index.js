@@ -126,6 +126,13 @@ $(document).ready(function() {
                 'trackArtist': 'Big Sean ft. E-40',
                 'trackAlbum': 'Dark Sky Paradise',
                 'time': '5:47'
+            }, {
+                'file': 'https://raw.githubusercontent.com/azureplayer/azureplayer.github.io/master/res/g_eazy_i_mean_it.aac',
+                'thumb': 'https://lastfm-img2.akamaized.net/i/u/770x0/e1545071f2640e40f41c384e77410aee.jpg',
+                'trackName': 'I Mean It',
+                'trackArtist': 'G-Eazy ft. Remo',
+                'trackAlbum': 'These Things Happen',
+                'time': '3:57'
             }]
         };
         var arr = t.playList;
