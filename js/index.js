@@ -133,6 +133,13 @@ $(document).ready(function() {
                 'trackArtist': 'G-Eazy ft. Remo',
                 'trackAlbum': 'These Things Happen',
                 'time': '3:57'
+            }, {
+                'file': 'https://raw.githubusercontent.com/azureplayer/azureplayer.github.io/master/res/diss_youtube_ro.mp3',
+                'thumb': 'https://s10.postimg.org/4fya4dhhl/cover.jpg',
+                'trackName': 'Disstrack YouTube Romania',
+                'trackArtist': 'Quicky Boy',
+                'trackAlbum': 'Smecer',
+                'time': '2:59'
             }]
         };
         var arr = t.playList;
